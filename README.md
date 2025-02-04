@@ -1,7 +1,7 @@
 ## Hi there 👋 Im Ebrahim Akbari Kargan
 
 # 💫 About Me:
-🔭 I’m currently working on Somewhere between Python and Django<br>🌱 I’m currently learning Redis and Celery<br>💬 Ask me about Python , Django, SQL, Rest API and DRF<br>
+🔭 I’m currently working Somewhere between Python and Django<br>🌱 I’m currently learning Redis and Celery<br>💬 Ask me about Python , Django, SQL, Rest API and DRF<br>
 
 
 ## 🌐 Socials:
